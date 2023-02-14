@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dev에서 pr 날리기2
+          dev에서 pr 날리기3
         </a>
       </header>
     </div>
