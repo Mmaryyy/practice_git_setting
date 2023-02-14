@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          dev에서 pr 날리기
         </a>
       </header>
     </div>
